@@ -1,5 +1,7 @@
 # StockSense - Demand & Inventory Intelligence (NorthBay Living)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/chatmate-ZH/stocksense)
+
 A simple dashboard that answers three questions for a home-products shop:
 **How much will each product sell in the next 6 weeks? Which products will run out? Which ones are overstocked?**
 
