@@ -1,0 +1,13 @@
+sku_id,product_name,category,launch_date,unit_cost,list_price
+K01,Steel Water Bottle,Kitchen,2023-06-01,180,399
+K02,Coffee Mug,kitchen ,2023-06-01,60,149
+K03,Lunch Box,Kitchen,2023-06-01,120,299
+A01,Electric Kettle,Appliances,2023-06-01,450,999
+A02,Table Fan,Appliances,2023-06-01,900,1799
+D01,Cushion Cover,DECOR,2023-06-01,70,199
+D02,Table Lamp,Decor,2023-06-01,300,749
+D03,Wall Clock,Decor,2023-06-01,220,549
+D04,Photo Frame,Decor,2023-06-01,90,249
+B01,Bedsheet Set, bedding,2023-06-01,350,899
+B02,Pillow,Bedding,2023-06-01,150,349
+B03,Blanket,Bedding,2023-06-01,400,999

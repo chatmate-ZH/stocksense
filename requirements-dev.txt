@@ -1,0 +1,4 @@
+nbformat
+nbconvert
+ipykernel
+httpx
